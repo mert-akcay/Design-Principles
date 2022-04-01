@@ -1,0 +1,15 @@
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net6.0\BridgeDesignPattern.exe
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net6.0\BridgeDesignPattern.deps.json
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net6.0\BridgeDesignPattern.runtimeconfig.json
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net6.0\BridgeDesignPattern.dll
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net6.0\BridgeDesignPattern.pdb
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.dll
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\refint\BridgeDesignPattern.dll
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.pdb
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\BridgeDesignPattern.genruntimeconfig.cache
+C:\Users\akcay\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\BridgeDesignPattern.dll
